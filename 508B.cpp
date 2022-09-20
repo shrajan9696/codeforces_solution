@@ -53,7 +53,7 @@ else{
   
    
   
- cout<<s;
+ cout<<s; 
   
 }
 cout<<"\n";
